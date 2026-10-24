@@ -1,38 +1,31 @@
-# ABOUT
-# Hi there, I'm Sivanesan G 👋
+# Sivanesan G
 
-🎓 **Student & Aspiring Developer**
+B.E. Computer Science and Engineering student (Batch 2026-2030) at St. Joseph's College of Engineering, Chennai, with a goal of building a career as a cybersecurity professional.
 
-I am a passionate student eager to learn and build software solutions. I am currently focused on sharpening my core programming skills and developing web projects.
+## About
 
----
+I am a first-year Computer Science and Engineering student at St. Joseph's College of Engineering, Chennai. I am building a strong foundation in programming and aim to work in cybersecurity.
 
-### 🚀 What I'm Up To
-- 📚 Currently learning and practicing **C Programming**
-- 💻 Building and experimenting with **Web Development** projects
-- 📂 Working on personal repositories including educational tools & platforms
+## Education
 
----
+**St. Joseph's College of Engineering, Chennai**
+B.E. Computer Science and Engineering, 2026-2030
 
-### 🛠️ Tech Stack & Tools
+## Skills
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+## Languages
 
-### 🌟 Featured Project
-* **Tuition Notes Web Platform:** An educational web application designed to help Class 11 & Class 12 students easily access study materials and notes.
+Tamil, English
 
----
+## Career Interest
 
-### 📬 Connect with Me
+Cybersecurity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivanesan-g-41a435440)
+## Contact
 
----
-
-⭐️ *Feel free to explore my repositories and reach out!*
+- LinkedIn: [linkedin.com/in/sivanesan-g-41a435440](https://www.linkedin.com/in/sivanesan-g-41a435440)
+- Email: sivanesanganesan2008@gmail.com
